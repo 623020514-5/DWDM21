@@ -3,7 +3,7 @@ Data Warehouse &amp; Data Mining 2021
 
 รหัสนักศึกษา 623020514-5
 
-##ชื่อกลุ่ม##
+ชื่อกลุ่ม : Natasha Romanoff
 
 1.นางสาวจุฑากญจน์ ชิงจันทร์
 
