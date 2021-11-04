@@ -21,7 +21,7 @@ Data Warehouse &amp; Data Mining 2021
 
 * บทที่ 1 [Introduction ]
 
-   * สไลด์สรุปบทที่ 1 [slide unit 1] (https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97-1.pdf)
+  > สไลด์สรุปบทที่ 1 [slide unit 1] (https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97-1.pdf)
 
 * บทที่ 2 Data Object and Attribute Type
 
