@@ -25,7 +25,7 @@ Data Warehouse &amp; Data Mining 2021
 
 * บทที่ 2 Data Object and Attribute Type
 
-   *สไลด์สรุปบที่ 2 [slide unit 2] (https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B-chapter2.pdf)
+  > สไลด์สรุปบที่ 2 [slide unit 2] (https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B-chapter2.pdf)
   
 * บทที่ 3 [Data Preprocessing] (https://github.com/623020514-5/DWDM21/blob/main/Data_Preprocessing(Chapter3).ipynb)
 
@@ -37,8 +37,8 @@ Data Warehouse &amp; Data Mining 2021
     * Quiz 4
     * Quiz 5
 
-  *สไลด์สรุปบทที่ 3 [slide unit 3] (https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%203.pdf)
+  > สไลด์สรุปบทที่ 3 [slide unit 3] (https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%203.pdf)
 
 * บทที่ 4 [Data Warehousing and On-line Anaalytical Processing]
 
-  *สไลด์สรุปบทที่ 4 [slide unit 4] (https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%204.pdf)
+  > สไลด์สรุปบทที่ 4 [slide unit 4] (https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%204.pdf)
