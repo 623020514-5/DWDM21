@@ -31,11 +31,30 @@ Data Warehouse &amp; Data Mining 2021
 
   * Meta Data
   * การจัดการข้อมูลในตารางก่อนนำไปวิเคราะห์
-   * การชี้ข้อมูลในตาราง
-   * Missing Value
-   * Select data by values [PD]
-     * Quiz 4
-     * Quiz 5
+    * การชี้ข้อมูลในตาราง
+      * ชี้แบบธรรมดา
+      * ชี้แบบ .iloc[
+    * Missing Value
+      * Handle Missing Value 1 (ลบค่า Missing)
+      * Handle Missing Value 1.5 (ลบค่า Missing เฉพาะใน column ที่เราสนใจ)
+      * Handle Missing Value 2
+      * Handle Missing Value 3 (แทนด้วย class ใหม่ (ค่าที่เหมาะสม))
+      * Handle Missing Value 4 (แทนด้วยค่ากลาง)
+      * Handling Missing Value 5 (แทนด้วย column ใกล้เคียง)
+    * PANDA
+      * Select data by values [PD]
+      * ใช้ & (and) และ | (or) ในการรวม list ของ boolean
+    * Quiz 4
+      * การต่อตารางแนวแกน Y [PD]
+      * Handling Missing Value 5 (แทนด้วย ค่ากลางของ samples ใน class เดียวกัน)(ต่อ)
+      * การเรียงข้อมูล[PD]
+      * utlier
+    * Quiz 5
+      * Pandas' looping(.iterrows)
+    * การรวม 2 ตารางโดยใช้ .merge()
+      * Group by (pandas)
+      * [PD] save ตารางเอาไปใช้ที่อื่น
+      * [PD]การสร้างตาราง
 
   > สไลด์สรุปบทที่ 3 [slide unit 3] (https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%203.pdf)
 
