@@ -58,7 +58,9 @@ Data Warehouse &amp; Data Mining 2021
     * Numpy Array
     * Distance Matrix
 
-  > สไลด์สรุปบที่ 2 [slide unit 2](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B-chapter2.pdf)
+  > เลคเชอร์สรุปบที่ 2 [lecture unit 2](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B-chapter2.pdf)
+
+  > สไลด์สรุปบที่ 2 [slide unit 2](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%AA%E0%B9%84%E0%B8%A5%E0%B8%94%E0%B9%8C%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%202.pdf)
   
   
 * บทที่ 3 [Data Preprocessing](https://github.com/623020514-5/DWDM21/blob/main/Data_Preprocessing(Chapter3).ipynb)
