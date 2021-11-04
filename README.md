@@ -19,11 +19,35 @@ Data Warehouse &amp; Data Mining 2021
 
 วิชา Data Mining and Data Warehouse
 
-* บทที่ 1 [Introduction ]
+* บทที่ 1 [Introduction ](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97-1.pdf) มีเนื้อหาดังนี้
+  * ทำไมต้องทำเหมืองข้อมูล (Why Data Mining?)
+  * อะไรคือเหมืองข้อมูล (What Is Data Mining?)
+  * มุมมองหลายมิติของเหมืองข้อมูล (A Multi-Dimensional View of Data Mining)
+  * สามารถขุดเเหมืองข้อมูลที่ไหนได้บ้าง (What Kinds of Data Can Be Mined?)
+  * รูปแบบหรือทิศทางของข้อมูล (What Kinds of Patterns Can Be Mined?)
+  * ใช้เทคโนโลยีประเภทใด? (What Kinds of Technologies Are Used?)
+  * แอพพลิเคชั่นเป้าหมาย(What Kinds of Applications Are Targeted?)
+  * ความสำคัญในการทำเหมือง(Major Issues in Data Mining)
+  * ประวัติความเป็นมา(A Brief History of Data Mining and Data Mining Society)
+  * สรุป (Summary)
 
-  > สไลด์สรุปบทที่ 1 [slide unit 1](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97-1.pdf)
+  > สไลด์สรุปบทที่ 1 [slide unit 1](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97-1.pdf) มีเนื้อหาดังนี้
+  
 
-* บทที่ 2 Data Object and Attribute Type
+* บทที่ 2 Getting to Knoe Your Data ความรู้เกี่ยวกับข้อมูล มีดังนี้
+  * [Basic Python](https://github.com/623020514-5/DWDM21/blob/main/Data101_(Chapter2).ipynb)
+    * Casting
+    * Data Structure
+    * List
+    * Loop
+    * Condition
+    * Function
+  * [Plot Data](https://github.com/623020514-5/DWDM21/blob/main/Data102(Chapter2).ipynb)
+    * Besic Data
+    * การตรวจสอบตารางข้อมูลโดยใช้ .head()&.tail()
+    * Boxplot
+    * Time Series Plot
+   
 
   > สไลด์สรุปบที่ 2 [slide unit 2](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B-chapter2.pdf)
   
