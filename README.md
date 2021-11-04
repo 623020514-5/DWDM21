@@ -20,6 +20,7 @@ Data Warehouse &amp; Data Mining 2021
 วิชา Data Mining and Data Warehouse
 
 * บทที่ 1 [Introduction ](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97-1.pdf) มีเนื้อหาดังนี้
+
   * ทำไมต้องทำเหมืองข้อมูล (Why Data Mining?)
   * อะไรคือเหมืองข้อมูล (What Is Data Mining?)
   * มุมมองหลายมิติของเหมืองข้อมูล (A Multi-Dimensional View of Data Mining)
@@ -30,11 +31,12 @@ Data Warehouse &amp; Data Mining 2021
   * ความสำคัญในการทำเหมือง(Major Issues in Data Mining)
   * ประวัติความเป็นมา(A Brief History of Data Mining and Data Mining Society)
   * สรุป (Summary)
+  
 
   > สไลด์สรุปบทที่ 1 [slide unit 1](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97-1.pdf) มีเนื้อหาดังนี้
   
 
-* บทที่ 2 Getting to Knoe Your Data ความรู้เกี่ยวกับข้อมูล มีดังนี้
+* บทที่ 2 Getting to Know Your Data ความรู้เกี่ยวกับข้อมูล มีดังนี้
   * [Basic Python](https://github.com/623020514-5/DWDM21/blob/main/Data101_(Chapter2).ipynb)
     * Casting
     * Data Structure
@@ -47,9 +49,17 @@ Data Warehouse &amp; Data Mining 2021
     * การตรวจสอบตารางข้อมูลโดยใช้ .head()&.tail()
     * Boxplot
     * Time Series Plot
-   
+  * [Visualizetion](https://github.com/623020514-5/DWDM21/blob/main/Data_Visualizetion.ipynb)
+    * Scatter plot
+    * Plot
+    * Bar chart
+    * Histogram
+  * [Distance Numpy](https://github.com/623020514-5/DWDM21/blob/main/Distance_Numpy.ipynb)
+    * Numpy Array
+    * Distance Matrix
 
   > สไลด์สรุปบที่ 2 [slide unit 2](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B-chapter2.pdf)
+  
   
 * บทที่ 3 [Data Preprocessing](https://github.com/623020514-5/DWDM21/blob/main/Data_Preprocessing(Chapter3).ipynb)
 
@@ -83,11 +93,20 @@ Data Warehouse &amp; Data Mining 2021
 
   > สไลด์สรุปบทที่ 3 [slide unit 3](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%203.pdf)
 
-* บทที่ 4 [Data Warehousing and On-line Anaalytical Processing]
-
+* บทที่ 4 [Data Warehousing and On-line Anaalytical Processing](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%204.pdf) มีเนื้อหา ดังนี้ 
+  * Basic Data Warehouse
+    * อะไรคือคลังข้อมูล
+    * วัตถุประสงค์
+    * การบูรณาการ
+  * Data Cube and OLAP
+    * OLTP vs. OLAP
+    * Data Cubes
+    * Conceptual Modeling of Data Warehouse
+  * การออกแบบ และการใช้งานคลังข้อมูล
+  * ความสำคัญของคลังข้อมูล
   > สไลด์สรุปบทที่ 4 [slide unit 4](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%204.pdf)
 
-* บทที่ 6 [Association_Rules](https://github.com/623020514-5/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
+* บทที่ 5 [Association_Rules](https://github.com/623020514-5/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
   * ความหมาย
   * Besic Concepts
     * Plot graph of Itemsets
@@ -97,9 +116,9 @@ Data Warehouse &amp; Data Mining 2021
     * Apriori
     * Support
 
-  > สไลด์สรุปบทที่ 6 [slide unit 6](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88-6.pdf)
+  > สไลด์สรุปบทที่ 5 [slide unit 6](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88-6.pdf)
 
-* บทที่ 7 Classification ประกอบด้วยสามหัวข้อ ดังนี้
+* บทที่ 6 Classification ประกอบด้วยสามหัวข้อ ดังนี้
   * [Desition Tree](https://github.com/623020514-5/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
     * Train Model
     * plot tree
@@ -120,18 +139,18 @@ Data Warehouse &amp; Data Mining 2021
   > [สรุปย่อย และการบ้านบทที่ 7 ](https://github.com/623020514-5/DWDM21/blob/main/ch7.pdf)
 
 
-  > สไลด์สรุปบทที่ 7 [slide unit 7](https://github.com/623020514-5/DWDM21/blob/93929a954ee7a6030f1264e5337772a9b4883195/%E0%B8%AA%E0%B9%84%E0%B8%A5%E0%B8%94%E0%B9%8C%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%207.pdf)
+  > สไลด์สรุปบทที่ 6 [slide unit 7](https://github.com/623020514-5/DWDM21/blob/93929a954ee7a6030f1264e5337772a9b4883195/%E0%B8%AA%E0%B9%84%E0%B8%A5%E0%B8%94%E0%B9%8C%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%207.pdf)
 
-* บทที่ 8 [Clustering](https://github.com/623020514-5/DWDM21/blob/main/Chap_8_Clustering.ipynb)
+* บทที่ 7 [Clustering](https://github.com/623020514-5/DWDM21/blob/main/Chap_8_Clustering.ipynb)
   * K-means
     * Generate Data
     * Clustering
     * Example Application (Color Quantization)
     * การนับจำนวนสี
 
-  > สไลด์สรุปบทที่ 8.1 [slide unit 8.1](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%AA%E0%B9%84%E0%B8%A5%E0%B8%94%E0%B9%8C%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%208.1.pdf)
+  > สไลด์สรุปบทที่ 7.1 [slide unit 7.1](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%AA%E0%B9%84%E0%B8%A5%E0%B8%94%E0%B9%8C%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%208.1.pdf)
 
-  > สไลด์สรุปบทที่ 8.2 [slide unit 8.2](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%AA%E0%B9%84%E0%B8%A5%E0%B8%94%E0%B9%8C%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%208.2.pdf)
+  > สไลด์สรุปบทที่ 7.2 [slide unit 7.2](https://github.com/623020514-5/DWDM21/blob/main/%E0%B8%AA%E0%B9%84%E0%B8%A5%E0%B8%94%E0%B9%8C%E0%B8%8A%E0%B8%B5%E0%B8%97%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%208.2.pdf)
 
 * โครงงานกลุ่ม [Project](https://github.com/623020514-5/DWDM21/blob/main/Project.ipynb)
   * สไลด์นำเสนอ [Slide Present](https://github.com/623020514-5/DWDM21/blob/main/Project.pdf)
